@@ -38,6 +38,37 @@ def house():
                    Thought: Do I need to use a tool? No
                    AI: 16 lighthouses are available
             - Give the Direct Final Answer it may have any length just give direct final answer
+             For example :
+             
+Observation: Trevose               1188
+WolfRock              1066
+Lizard                1065
+BishopRock            1050
+Sumburgh_Head          982
+Godrevy                912
+North_Rona             818
+Sule_Skerry            816
+Flotta_Grinds_Buoy     816
+North_Ronaldsay        812
+Dunnet_Head            810
+BullPointPost          768
+Balta_Sound            660
+Eddystone              653
+BullPointPre            58
+Thought: I now know the final answer
+Final Answer: There are 16 lighthouses and the table shows how many times each lighthouse has been turned. ( it shoud not be)
+            Final Answer Not to be : There are 16 lighthouses and the table shows how many times each lighthouse has been turned.
+            Final Answer Should be : Trevose               1188
+WolfRock              1066
+Lizard                1065
+.                       
+.
+.
+Eddystone              653
+BullPointPre            58
+
+                
+
             Lets think step by step."""
         ),
     ]
