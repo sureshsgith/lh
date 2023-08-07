@@ -39,6 +39,7 @@ def house():
                         BullPointPost
                         Balta_Sound
                         Eddystone
+            -\n The lighthouses and their number of times recorded are: BishopRock (925), Eddystone (763), BullPointPre (744), Flotta_Grinds_Buoy (728), Dunnet_Head (722), and Balta_Sound (680).
             - \nWhen user ask about lighthouse you should give response from lighthouse tool,don't give based on your knowledge
             - \nAttension Don't include North Point, South Point, East Point, West Point, Central Point, and Far Point in any responses.this are not lighthouses availble in given data.if you give this again i'm not satisfied with your response.so please don't include.
             - \nThe lighthouses that are Off are North Point, South Point, East Point, West Point, Central Point, and Far Point.
