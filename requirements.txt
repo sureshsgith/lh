@@ -4,3 +4,4 @@ openai
 pandas
 tabulate
 matplotlib
+openpyxl
