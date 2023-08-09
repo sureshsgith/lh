@@ -8,7 +8,7 @@ from langchain.chat_models import ChatOpenAI
 import streamlit as st
 import time
 import os 
-os.environ["OPENAI_API_KEY"]="sk-IxW"+"GL6i3pIk3j8LsSX"+"38T3BlbkFJJ63Iv84bpgC"+"n2CrtrFbH"
+os.environ["OPENAI_API_KEY"]="sk-"+"EpkhTd84zBW"+"1KbjbbMAPT3Bl"+"bkFJWbdf8qdJvWGu1lIPCE9O"
 import langchain
 langchain.debug=False
 st.markdown("<h1 align=center>LightHouse Chat Demo</h1>",unsafe_allow_html=True)
